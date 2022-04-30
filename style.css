@@ -1,0 +1,23 @@
+.cabeçalhomoda{
+    background-color: #BB86FC;
+    text-align: center;
+    font-size: 20px;
+    color: azure;
+}
+
+.cabeçalhocasa{
+    background-color: #00C4B4;
+    text-align: center;
+    font-size: 20px;
+    color: azure;
+}
+
+.Produtosevalores{
+    background-color: #424250;
+    color: aliceblue;
+    font-size: 20px;
+}
+.iten {
+    margin: 10px;
+    padding: 10px;
+}
